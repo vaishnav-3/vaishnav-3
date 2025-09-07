@@ -1,6 +1,6 @@
 [![An image of @vaishnav3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaishnav3)](https://holopin.io/@vaishnav3)
 # 💫 About Me:
-🔭 I’m currently working on React/NextJs<br> <br>📫 How to reach me vaishnavpatil003@gmail.com<br> 
+🔭 I’m currently working on TypeScript<br> <br>📫 How to reach me vaishnavpatil003@gmail.com<br> 
 
 
 ## 🌐 Socials:
